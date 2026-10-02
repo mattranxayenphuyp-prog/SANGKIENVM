@@ -1,0 +1,8 @@
+{
+  "name": "Hệ thống Đánh giá Sáng kiến Xã Văn Môn",
+  "description": "Phần mềm quản lý, chấm điểm, kiểm tra trùng lặp và tổng hợp kết quả sáng kiến kinh nghiệm cấp cơ sở UBND xã Văn Môn,  thành phố Bắc Ninh có tích hợp AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
